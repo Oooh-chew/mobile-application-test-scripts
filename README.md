@@ -5,3 +5,6 @@
 
 * lazy_run_frida_server.sh
   * Run [frida](https://frida.re/) server.
+
+* frida_hooking_android_func.py
+  * Example | hooking android function with frida
